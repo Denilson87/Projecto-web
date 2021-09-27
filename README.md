@@ -3,7 +3,7 @@ This project amis to develop a marketing mult-level software, where can be regis
 
 #Languages
 .PHP 7.2
-.JavaScript
+.JavaScript 
 .CSS3
 .SQL
 
